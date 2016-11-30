@@ -6,7 +6,7 @@ summary:    Just saying hello...
 categories: jekyll pixyll
 ---
 
-There is just a test post to say HELLO WORLD!
+This is just a test post to say HELLO WORLD!
 
 Here's some java code for the heck of it.
 
